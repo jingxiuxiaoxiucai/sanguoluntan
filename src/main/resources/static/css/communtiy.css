@@ -1,0 +1,365 @@
+.main{
+    margin: 30px;
+    background-color: white;
+}
+body{
+    background-color: #e2e2e2;
+}
+.quesions-title{
+    margin-top: 25px;
+}
+.btn-publish{
+    float: right;
+    margin-bottom: 15px;
+}
+.text-desc{
+  font-size:12px ;
+    font-weight: normal;
+    color: #999999;
+}
+.profile.section{
+    margin-top: 15px;
+}
+.communtiy-meum{
+    color: #999999;
+    font-size: 13px;
+}
+.comments{
+    margin: 10px 0;
+}
+.comment-btn{
+    float: right;
+    margin-bottom: 10px;
+}
+.comment-sp{
+    mar-top: 0px;
+}
+
+.comment_section{
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eeeeee;
+     padding: 5px;
+}
+.meum{
+    color: #999999;
+    margin-top: 5px;
+}
+.meum .icon{
+    margin-left: 20px;
+    font-size: 16px;
+}
+ .comments1{
+   color: #2aabd2;
+}
+
+.meum .icon:hover{
+     color: #e4b9b9;
+ }
+.sub-comment{
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid #eeeeee;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
+.sub-comment .btn{
+    margin: 10px 0;
+    float: right;
+}
+.quesion-tags{
+    margin-right: 6px;
+    font-size: 25px;
+    white-space: normal;
+}
+.quesions-tags2{
+    margin-right: 6px;
+    font-size: 15px;
+    white-space: normal;
+}
+.connect-qeusion{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.hot-qeusion{
+    font-size: 15px;
+    margin-top: 20px;
+}
+.span-open{
+    color:red;
+}
+.span-close{
+    color: lightsteelblue;
+}
+.select_tag{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.queison-tops{
+    margin-top: 20px;
+}
+.replies{
+    font-size: 16px;
+    margin-right: 15px;
+}
+.self_main{
+    background-color: white;
+    margin: 60px 200px;
+    height: 600px;
+}
+.self_main2{
+    background-color: white;
+    margin: 30px 200px;
+    height: 700px;
+}
+.self_fontsize{
+    font-size: 20px;
+    color: #0a001f;
+}
+.self_sonfontSize{
+    font-size: 19px;
+    color: #0F192A;
+    margin-top: 20px;
+}
+.self_mes{
+    margin-right: 20px;
+    color: gray;
+    font-size: 15px;
+}
+.self_leave{
+    font-size: 10px;
+    color: #9d937c
+}
+.self_leave6{
+    font-size: 15px;
+    color: black;
+}
+.self_leave2{
+    font-size: 13px;
+    color: black;
+    margin-right: 2px;
+}
+.self_leave3{
+    color: gray;font-size: 20px;
+    margin-right: 20px;
+}
+
+.other_margintop{
+    margin-top: 25px;
+}
+.other_marginright{
+    margin-right: 35px;
+}
+.other_marginrightFontSize{
+    font-size: 18px;
+    margin-right: 10px;
+    color: grey;
+}
+.other_right{
+    margin-right: 50px;
+    font-size: 25px;
+
+}
+
+ .div_scroll{
+    height: 450px;
+    overflow: auto;
+    padding: 8px;
+    background-color: white;
+ }
+.div_scroll2{
+    height: 400px;
+    overflow: auto;
+    padding: 8px;
+    background-color: white;
+}
+ .other_quesions{
+
+     margin-right: 20px;
+     color: black;
+ }
+.other_main {
+    background-color: white;
+    margin: 5px 100px;
+    height: 700px;
+}
+.other_descript{
+    font-size: 14px;
+    color: #858585;
+    line-height: 24px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+.selector::-webkit-scrollbar { display: none }
+
+.self_xunzhang3{
+    height: 87px;
+    width: 80px;
+    margin-top: 15px;
+
+}
+.btn-receive{
+    width: 107px;
+    height: 32px;
+    border-radius: 4px;
+    background: #D5DEFA;
+    border: 0;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+.bi_name{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 33px;
+    color: rgba(51,51,51,1);
+
+}
+.bi_image{
+    width: 35%;height: 35%;margin-left: 180px;
+}
+.bi_jindu{
+    width: 200px;
+    margin-left: 175px;
+}
+.bi_tishi{
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-left: 200px;
+    color: rgba(102,102,102,1)
+}
+.headLi{
+    color: black;
+}
+.self_btn{
+    float: right;
+    border: 1px solid #999;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #999;
+    width: 90px;
+    height: 32px;
+    background: #fff;
+    text-align: center;
+}
+.self_btn:hover{
+    color: #ca0c16;
+    background: #fff;
+    border: 1px solid #ca0c16;
+}
+
+.self_btn1{
+    float: right;
+    border: 1px solid #999;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #999;
+    width: 90px;
+    height: 32px;
+    background: #fff;
+    text-align: center;
+}
+.self_btn1:hover{
+    color: green;
+    background: #fff;
+    border: 1px solid green;
+}
+.web_thems{
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+ #chatbox{
+     margin: 200px auto 0px;
+     width: 50%;
+ }
+#emoji{
+    width: 50px;
+    font-size: 2em;
+    cursor: pointer;
+    float: left;
+}
+#send{
+    width: 50px;
+    height: 40px;
+    line-height:40px;
+    text-align: center;
+    background-color: #66f3f1;
+    color:#fff;
+    float: right;
+    cursor: pointer;
+    padding: 0px;
+    margin-right: -6px;
+}
+#result{
+    clear: both;
+    min-height: 30px;
+    padding-top: 30px;
+}
+/*下面是表情的一些样式，可自行修改*/
+.emoji-box{
+    overflow: hidden;
+    width: 20%;
+    position: absolute;
+    border: 1px solid #ccc;
+    z-index: 9998;
+    background: #fff;
+    border-radius: 5px;
+}
+em.tip{
+    content:'';
+    width:0px;
+    height:0px;
+    border-width:10px;
+    border-style:solid;
+    border-color:transparent  transparent  #ccc transparent ;
+    position: absolute;
+    z-index: 99999;
+}
+em.tip2{
+    content:'';
+    width:0px;
+    height:0px;
+    border-width:10px;
+    border-style:solid;
+    border-color:transparent  transparent  #fff transparent ;
+    position: absolute;
+    z-index: 99999;
+}
+.emoji-box>.emoji-btn-box{
+    border-bottom: 1px solid #ccc;
+}
+.emoji-box>.emoji-btn-box>span{
+    min-width: 50px;
+    text-align:center;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    padding:2px 10px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+    color: #ccc;
+}
+.emoji-box>ul.emoji-ul{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+.emoji-box>ul.emoji-ul>li.emoji-li{
+    border: 1px solid #fff;
+    list-style: none;
+    float: left;
+}
+.emoji-box>ul.emoji-ul>li.emoji-li:HOVER {
+    border: 1px solid blue;
+}
